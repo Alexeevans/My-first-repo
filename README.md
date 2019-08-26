@@ -1,2 +1,4 @@
 # My-first-repo
-My first ever repo on GitHub
+Making some edits
+This is fun so far
+I am feeling like a genius already
